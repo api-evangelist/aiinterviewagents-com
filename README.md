@@ -84,14 +84,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aiinterviewagents Com Domain Security](https://apis.io/security/aiinterviewagents-com/aiinterviewagents-com-domain-security/)
-- [Aiinterviewagents Com Trust Center](https://apis.io/security/aiinterviewagents-com/aiinterviewagents-com-trust-center/)
+- [AI Interview Agents Domain Security](https://apis.io/security/aiinterviewagents-com/aiinterviewagents-com-domain-security/)
+- [AI Interview Agents Trust Center](https://apis.io/security/aiinterviewagents-com/aiinterviewagents-com-trust-center/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aiinterviewagents Com Plans Pricing](https://apis.io/plans/aiinterviewagents-com/aiinterviewagents-com-plans-pricing/)
+- [AI Interview Agents Plans Pricing](https://apis.io/plans/aiinterviewagents-com/aiinterviewagents-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -107,7 +107,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aiinterviewagents-com/](https://apis.io/providers/aiinterviewagents-com/).
+**Kin Score 21.6** — emerging · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 68.1 |
+
+**Agent readiness 3.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiinterviewagents-com/](https://apis.io/providers/aiinterviewagents-com/).
 
 ## How this profile is made
 
